@@ -10,6 +10,8 @@
 import sys
 import hashlib
 
+print sys.platform
+
 csvfilename = sys.argv[1]
 print csvfilename
 
